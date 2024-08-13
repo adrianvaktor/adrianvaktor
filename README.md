@@ -10,10 +10,10 @@ I'm currently working as a media producer and web developer at <a href="http://h
 
 <Table>
   <tr>
-    <td>
+    <td width="33%" valign="top">
       <a>link</a>
     </td>
-    <td>
+    <<td width="33%" valign="top">
       
     </td>
   </tr>
