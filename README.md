@@ -89,6 +89,8 @@ Walk around my virtual art exhibit! A chaotic representation of the spaces, vide
 
 <br/>
 <hr/>
+<div style="background-color:rgba(0,0,0,0.1)">
+
 <h3> Cards </h3>
 <img align="top" width="100%" max-height="200px" src="https://raw.githubusercontent.com/adrianvaktor/adrianvaktor/main/images/cards_test.gif"/>
 <br/>
@@ -99,6 +101,7 @@ Walk around my virtual art exhibit! A chaotic representation of the spaces, vide
 <p> Drag and drop functionality has always been a fun one that I enjoy. 
 </p>
 <p>
+
 
 I once created an NPM package called <a href="https://www.npmjs.com/package/react-dragset" >react-dragset </a> that allows any element that is a direct child of the package's provided DragContainer to be moved around on the screen by the user!
 </p>
@@ -112,3 +115,6 @@ I once created an NPM package called <a href="https://www.npmjs.com/package/reac
   <p> Electron </p>
   <p>  </p>
 </details
+
+
+</div>
