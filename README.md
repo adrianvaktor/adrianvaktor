@@ -15,7 +15,7 @@ Bellow you can see some of some of my favorite web projects:
 
 <h3 align="left"> YouTube Sampler  </h3>
 
-<img align="top" width="100%" height="200px" src="https://cdn.korg.com/caen/products/upload/f111f8df8c92776281b7ea177ee94579_sp.png"/>
+<img align="top" width="100%" max-height="200px" src="https://cdn.korg.com/caen/products/upload/f111f8df8c92776281b7ea177ee94579_sp.png"/>
 <br/>
 
 <p text-align="right" align="left" height="200px"> 
@@ -90,7 +90,7 @@ Walk around my virtual art exhibit! A chaotic representation of the spaces, vide
 <br/>
 <hr/>
 <h3> Cards </h3>
-<img align="top" width="100%" height="200px" src="https://raw.githubusercontent.com/adrianvaktor/adrianvaktor/main/images/test_1.png"/>
+<img align="top" width="100%" max-height="200px" src="https://raw.githubusercontent.com/adrianvaktor/adrianvaktor/main/images/cards_test.gif"/>
 <br/>
 <br/>
 <p text-align="right" align="left" height="200px"> 
