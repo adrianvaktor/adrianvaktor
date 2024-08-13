@@ -1,4 +1,4 @@
-<img src="" width="100%">
+<img alt="Header Banner" src="https://raw.githubusercontent.com/adrianvaktor/adrianvaktor/main/images/test_1.png" width="100%">
 
 Hi! I am a full stack web developer with a passion for interactive client side web experiences! I love building with modern frameworks, APIs, CMS and any available tools that enhance and allow for engaging web applications.
 
