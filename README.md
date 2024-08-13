@@ -2,7 +2,7 @@
 
 Hi! I am a full stack web developer with a passion for interactive client side web experiences! I love building with modern frameworks, APIs, CMS and any available tools that enhance and allow for engaging and responsive web applications.
 
-I'm currently working as a media producer and web developer at <a href="http://haply.co" target="_blank">Haply Robotics</a>. On my time, I have been honing my skills in building artistic projects and useful tools that you can check out over here: <a href="http://haply.co" target="_blank">Haply Robotics</a>
+I'm currently working as a media producer and web developer at <a href="http://haply.co" target="_blank">Haply Robotics</a>. On my time, I have been honing my skills in building artistic projects and useful tools that you can check out over here.
 
 ---
 
